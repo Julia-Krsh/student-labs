@@ -20,6 +20,8 @@
 - PyCharm
 - LM Studio
 - OpenAI (библиотека)
+- dotenv
+- pathlib
 
 ## Структура
 ## Структура проекта
@@ -27,6 +29,10 @@
 data/
 src/
 results/
+screenshots_for_readme/
+.env
+README.md
+requirements.txt
 ```
 
 ## Модели

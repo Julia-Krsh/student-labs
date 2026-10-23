@@ -26,11 +26,10 @@
 ## Структура
 ## Структура проекта
 ```text
-data/
 src/
 results/
 screenshots_for_readme/
-.env
+.env.example
 README.md
 requirements.txt
 ```
